@@ -1,0 +1,14 @@
+13
+24D:\bc\content\dom-1\dist133002012448792578 1
+23D:\bc\content\dom-1\src133001756044400324 1
+46D:\bc\content\dom-1\dist\index.755bdb92.js.map133001763698684429 0
+42D:\bc\content\dom-1\dist\index.755bdb92.js133001763698673605 0
+34D:\bc\content\dom-1\src\index.html133002012448032979 0
+32D:\bc\content\dom-1\src\dom-1.js133001766608948707 0
+30D:\bc\content\dom-1\src\dom.js133001759550162093 0
+31D:\bc\content\dom-1\src\main.js133002011891849071 0
+42D:\bc\content\dom-1\dist\index.de158e3a.js133002011892702191 0
+46D:\bc\content\dom-1\dist\index.de158e3a.js.map133002011892712116 0
+42D:\bc\content\dom-1\dist\index.e70e4287.js133001883458938046 0
+46D:\bc\content\dom-1\dist\index.e70e4287.js.map133001883458957192 0
+35D:\bc\content\dom-1\dist\index.html133002012448792578 0
